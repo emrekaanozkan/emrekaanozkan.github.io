@@ -1,6 +1,6 @@
 # Site settings
-title: Brendan Thompson's Website
-description: Brendan Thompson's personal blog
+title: Emre Kaan's Website
+description: Emre Kaan's personal blog
 # url: "brendev.co"
 permalink: pretty
 
@@ -16,8 +16,8 @@ sass:
 #   Projects: /projects/
 
 # User settings
-username: Brendan Thompson
-user_title: Software Developer
-email: brenthompson2@gmail.com
+username: Emre Kaan Ozkan
+user_title: Electronics And Communication Engineer
+email: emrekaanozkan@outlook.com
 
 exclude: ['package.json', 'src' , 'node_modules']
