@@ -1,5 +1,5 @@
 # Site settings
-title: Emre Kaan's Website
+title: Emre Kaan's Personal Website
 description: Emre Kaan's personal blog
 # url: "brendev.co"
 permalink: pretty
@@ -16,7 +16,7 @@ sass:
 #   Projects: /projects/
 
 # User settings
-username: Emre Kaan Ozkan
+username: Emre Kaan Özkan
 user_title: Electronics And Communication Engineer
 email: emrekaanozkan@outlook.com
 
