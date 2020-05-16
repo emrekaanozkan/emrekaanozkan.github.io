@@ -17,7 +17,7 @@ sass:
 
 # User settings
 username: Emre Kaan Özkan
-user_title: Electronic and Communication Engineer
+user_title: Electronics and Communication Engineer
 email: emrekaanozkan@outlook.com
 
 exclude: ['package.json', 'src' , 'node_modules']
