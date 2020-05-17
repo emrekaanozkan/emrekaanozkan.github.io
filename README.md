@@ -1,8 +1,8 @@
-# Brendan's Website
+# Emre Jaan 's Website
 
 ## The Website
 
-[View the website](www.brendev.co)
+[View the website](www.emrekaanozkan.com)
 
 This website was developed by Brendan Thompson using Jekyll & the Particle theme by Nathan Randecker. Check out [this post](https://brenthompson2.github.io/Website-Design) describing the full process of building this website.
 
