@@ -2,7 +2,7 @@
 
 ## The Website
 
-[View the website](www.emrekaanozkan.com)
+[View the website](http://www.emrekaanozkan.com)
 
 This website was developed by Brendan Thompson using Jekyll & the Particle theme by Nathan Randecker. 
 it was also forked from [here](http://www.brendev.co/) 
